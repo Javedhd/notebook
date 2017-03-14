@@ -136,7 +136,7 @@ git commit
 1. 注册github帐号
 *  注册邮箱， 注意不要使用QQ.com
 
-![git_signup](img/git_sigup.png)
+![git_signup](https://github.com/Javedhd/notebook/blob/master/img/git_signup.png?raw=true)
 
 2. 创建gitc仓库
 3. 从github将创建的gitc仓库， 克隆到本地。
@@ -151,5 +151,8 @@ input password:
 ```
 5. 更新本地仓库， 与github仓库进行同步。将服务器提交拉取到本地。
 
-#参考文献
+# 参考文献
 [ro Git book zh](https://git-scm.com/book/zh/v2)
+
+# 速查表
+[](https://github.com/Javedhd/notebook/blob/master/img/git%E9%80%9F%E6%9F%A5%E8%A1%A8.jpeg?raw=true)
