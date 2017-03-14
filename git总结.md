@@ -155,4 +155,4 @@ input password:
 [ro Git book zh](https://git-scm.com/book/zh/v2)
 
 # 速查表
-[](https://github.com/Javedhd/notebook/blob/master/img/git%E9%80%9F%E6%9F%A5%E8%A1%A8.jpeg?raw=true)
+![suchabiao](https://github.com/Javedhd/notebook/blob/master/img/git%E9%80%9F%E6%9F%A5%E8%A1%A8.jpeg?raw=true)
